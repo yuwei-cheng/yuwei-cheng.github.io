@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a third year Ph.D. student in Statistics at University of Chicago 
 
 ## Research Interests
 
