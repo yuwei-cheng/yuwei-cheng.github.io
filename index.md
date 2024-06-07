@@ -10,10 +10,10 @@ I am a third-year Statistics PhD student at the University of Chicago, where I a
 Online Learning, Reinforcement Learning, Machine Learning, Algorithmic Game Theory
 
 ## Publication
-**Cheng, Y**. Yao, F., Liu, X., & Xu, H. (2024). [Learning from Imperfect Human Feedback: a Tale from Corruption-Robust Dueling](https://arxiv.org/abs/2405.11204). arXiv preprint arXiv:2405.11204.
+**Cheng, Y.**, Yao, F., Liu, X., & Xu, H. (2024). [Learning from Imperfect Human Feedback: a Tale from Corruption-Robust Dueling](https://arxiv.org/abs/2405.11204). arXiv preprint arXiv:2405.11204.
 
-Quaye S, **Cheng Y**, Tan R, Prem K, Kuo A, Teo J, & Cook AC (2023). [Application of the network scale-up method to estimate the sizes of key populations for HIV in Singapore using online surveys](https://pubmed.ncbi.nlm.nih.gov/36919979/). Journal of the International AIDS Society 26 (3), e25973 
+Quaye, S. E. D.,** Cheng, Y.**, Tan, R. K. J., Koo, J. R., Prem, K., Teo, A. K. J., & Cook, A. R. (2023). [Application of the network scale-up method to estimate the sizes of key populations for HIV in Singapore using online surveys](https://pubmed.ncbi.nlm.nih.gov/36919979/). Journal of the International AIDS Society 26 (3), e25973 
 
-**Cheng Y**, Tran Minh N, Tran Minh Q, Khandelwal S, & Clapham HE (2022). [Estimates of Japanese Encephalitis mortality and morbidity: A systematic review and modeling analysis.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010361). PLoS Negl Trop Dis 16(5): e0010361
+**Cheng, Y.**, Tran Minh, N., Tran Minh, Q., Khandelwal, S., & Clapham, H. E. (2022). [Estimates of Japanese Encephalitis mortality and morbidity: A systematic review and modeling analysis.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010361). PLoS Negl Trop Dis 16(5): e0010361
 
 
