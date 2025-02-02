@@ -10,9 +10,19 @@ I am a fourth-year Statistics PhD student at the University of Chicago, where I 
 Online Learning, Reinforcement Learning, Machine Learning, Algorithmic Game Theory
 
 ## Publication
-Yao, F., **Cheng, Y.**, Wei, E., & Xu, H. (2024). Single-Agent Poisoning Attacks Suffice to Ruin Multi-Agent Learning. Under Review
+Single-Agent Poisoning Attacks Suffice to Ruin Multi-Agent Learning. 
 
-**Cheng, Y.**, Yao, F., Liu, X., & Xu, H. (2024). [Learning from Imperfect Human Feedback: a Tale from Corruption-Robust Dueling](https://arxiv.org/abs/2405.11204). arXiv preprint arXiv:2405.11204.
+Fan Yao^{*}, **Yuwei Cheng^{*}**, Ermin Wei and Haifenf Xu
+
+**ICLR 2025**: Proc. 13th International Conference on Learning Representations, 2025.
+
+[Learning from Imperfect Human Feedback: a Tale from Corruption-Robust Dueling](https://arxiv.org/abs/2405.11204).
+
+Yuwei Cheng, Fan Yao, Xuefeng Liu and Haifeng Xu
+
+Best Poster Award at Midwest Machine Learning Symposium, 2024
+
+**ICLR 2025**: Proc. 13th International Conference on Learning Representations, 2025.
 
 Quaye, S. E. D., **Cheng, Y.**, Tan, R. K. J., Koo, J. R., Prem, K., Teo, A. K. J., & Cook, A. R. (2023). [Application of the network scale-up method to estimate the sizes of key populations for HIV in Singapore using online surveys](https://pubmed.ncbi.nlm.nih.gov/36919979/). Journal of the International AIDS Society 26 (3), e25973 
 
