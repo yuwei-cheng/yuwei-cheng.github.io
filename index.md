@@ -52,7 +52,7 @@ Sharon Esi Duoduwa Quaye, **Yuwei Cheng**, Rayner Kay Jin Tan, Joel R Koo, Kiesh
 
 ## Academic Service
 - Reviewer for ICML, 2025
-- Reviewr for The American Statistician, 2023
+- Reviewer for The American Statistician, 2023
 - Reviewer for BMJ Global Health, 2022
 
 
