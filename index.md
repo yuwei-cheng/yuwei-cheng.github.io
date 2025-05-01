@@ -45,4 +45,14 @@ Sharon Esi Duoduwa Quaye, **Yuwei Cheng**, Rayner Kay Jin Tan, Joel R Koo, Kiesh
 
 **PLoS Neglected Tropical Diseases**, Vol. 16, No. 5, Article e0010361, 2022.
 
+## Talks
+
+- National University of Singapore, research talk at Department of Computer Science, "Intrinsic Efficiency-Robustness Trade-offs in Modern Online Learning Algorithms" (April, 2025)
+- Nanyang Technological University, research talk at Agent Mediated Intelligence Research Group, "Intrinsic Efficiency-Robustness Trade-offs in Modern Online Learning Algorithms" (April, 2025)
+
+## Academic Service
+- Reviewer for ICML, 2025
+- Reviewr for The American Statistician, 2023
+- Reviewer for BMJ Global Health, 2022
+
 
