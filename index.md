@@ -55,4 +55,11 @@ Sharon Esi Duoduwa Quaye, **Yuwei Cheng**, Rayner Kay Jin Tan, Joel R Koo, Kiesh
 - Reviewer for The American Statistician, 2023
 - Reviewer for BMJ Global Health, 2022
 
+## Teaching
+- Instructor for STAT20000, Elementary Statistics, Winter, 2025
+- Teaching assistant for STAT22400, Applied Regression Analysis, Fall, 2024
+- Teaching assistant for DATA11900, Introduction to Data Science II, 2021-2024
+- Teaching assistant for DATA11800, Introduction to Data Science I, 2021-2024
+- Teaching assisant for EC2102, Macroeconomic Analysis I, 2019
+
 
