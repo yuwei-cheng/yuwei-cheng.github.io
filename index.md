@@ -47,6 +47,8 @@ Sharon Esi Duoduwa Quaye, **Yuwei Cheng**, Rayner Kay Jin Tan, Joel R Koo, Kiesh
 
 ## Talks
 
+- Invited talk at Salesforce AI Research Future Forum (May, 2025)
+- University of Chicago, research talk at Department of Computer Science Theory Lunch (May, 2025)
 - National University of Singapore, research talk at Department of Computer Science, "Intrinsic Efficiency-Robustness Trade-offs in Modern Online Learning Algorithms" (April, 2025)
 - Nanyang Technological University, research talk at Agent Mediated Intelligence Research Group, "Intrinsic Efficiency-Robustness Trade-offs in Modern Online Learning Algorithms" (April, 2025)
 
