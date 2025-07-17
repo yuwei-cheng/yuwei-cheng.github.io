@@ -47,6 +47,7 @@ Sharon Esi Duoduwa Quaye, **Yuwei Cheng**, Rayner Kay Jin Tan, Joel R Koo, Kiesh
 
 ## Talks
 
+- Google PhD Summit Poster Session, "Towards Development and Assessment of Evaluation Metrics for AI Generated Metric Trend Summary" (July, 2025)
 - Invited talk at Salesforce AI Research Future Forum (May, 2025)
 - University of Chicago, research talk at Department of Computer Science Theory Lunch (May, 2025)
 - National University of Singapore, research talk at Department of Computer Science, "Intrinsic Efficiency-Robustness Trade-offs in Modern Online Learning Algorithms" (April, 2025)
