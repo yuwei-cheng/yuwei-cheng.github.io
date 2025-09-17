@@ -13,7 +13,7 @@ AI for Social Good, Preference Alignment, Online Learning, Reinforcement Learnin
 
 <a name="first-author"></a>*Co-first author
 
-**[W2]. Can LLMs Address Mental Health Questions? A Comparison with Human Therapists**
+**[[W2]. Can LLMs Address Mental Health Questions? A Comparison with Human Therapists](https://arxiv.org/abs/2509.12102)**
 Qia Wang, **Yuwei Cheng**, Austin Song, Sarah Keedy, Marc Berman, Nick Feamster
 
 Under Review
@@ -24,7 +24,7 @@ Under Review
 
 Under Review
 
-**[P4]. Single-Agent Poisoning Attacks Suffice to Ruin Multi-Agent Learning**
+**[[P4]. Single-Agent Poisoning Attacks Suffice to Ruin Multi-Agent Learning](https://openreview.net/forum?id=46xYl55hdc)**
 
 Fan Yao [*](#first-author), **Yuwei Cheng [*](#first-author)**, Ermin Wei and Haifenf Xu
 
