@@ -13,17 +13,17 @@ AI for Social Good, Preference Alignment, Online Learning, Reinforcement Learnin
 
 <a name="first-author"></a>*Co-first author
 
-**[[W2]. Can LLMs Address Mental Health Questions? A Comparison with Human Therapists](https://arxiv.org/abs/2509.12102)**
+**[[W1]. Can LLMs Address Mental Health Questions? A Comparison with Human Therapists](https://arxiv.org/abs/2509.12102)**
 
 Qia Wang, **Yuwei Cheng**, Austin Song, Sarah Keedy, Marc Berman, Nick Feamster
 
 Under Review
 
-**[W1]. Personalized Ad Impact with Contextual Markov Decision Processes: Long-Term Poisson Rewards and Near-Optimal Bidding Algorithms**
+**[P5]. Learning Personalized Ad Impact via Contextual Reinforcement Learning under Delayed Rewards**
 
 **Yuwei Cheng**, Zifeng Zhao and Haifeng Xu
 
-Under Review
+**NeurIPS 2025**: The Thirty-Ninth Annual Conference on Neural Information Processing Systems
 
 **[[P4]. Single-Agent Poisoning Attacks Suffice to Ruin Multi-Agent Learning](https://openreview.net/forum?id=46xYl55hdc)**
 
