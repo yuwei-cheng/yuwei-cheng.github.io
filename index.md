@@ -29,6 +29,8 @@ Under Review
 
 **Yuwei Cheng**, Zifeng Zhao and Haifeng Xu
 
+**Recipient of NeurIPS Scholar Award 2025**
+
 **NeurIPS 2025**: The Thirty-Ninth Annual Conference on Neural Information Processing Systems
 
 **[[P4]. Single-Agent Poisoning Attacks Suffice to Ruin Multi-Agent Learning](https://openreview.net/forum?id=46xYl55hdc)**
