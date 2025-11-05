@@ -68,7 +68,7 @@ Sharon Esi Duoduwa Quaye, **Yuwei Cheng**, Rayner Kay Jin Tan, Joel R Koo, Kiesh
 - Nanyang Technological University, research talk at Agent Mediated Intelligence Research Group, "Intrinsic Efficiency-Robustness Trade-offs in Modern Online Learning Algorithms" (April, 2025)
 
 ## Academic Service
-- Reviewer for ICML, 2025
+- Reviewer for ICML, NeurIPS, 2025
 - Reviewer for The American Statistician, 2023
 - Reviewer for BMJ Global Health, 2022
 
