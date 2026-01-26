@@ -23,7 +23,7 @@ Under Review
 
 Bingji Yi, Qiyuan Liu, **Yuwei Cheng**, Haifeng Xu
 
-ICLR 2026: Proc. 14th International Conference on Learning Representations, 2026.
+**ICLR 2026**: Proc. 14th International Conference on Learning Representations, 2026.
 
 **[[P5]. Learning Personalized Ad Impact via Contextual Reinforcement Learning under Delayed Rewards](https://arxiv.org/abs/2510.20055)**
 
