@@ -13,17 +13,17 @@ AI for Social Good, Preference Alignment, Online Learning, Reinforcement Learnin
 
 <a name="first-author"></a>*Co-first author
 
-**[[W2] Escaping Model Collapse via Synthetic Data Verification: Near-term Improvements and Long-term Convergence](https://arxiv.org/abs/2510.16657)**
-
-Bingji Yi, Qiyuan Liu, **Yuwei Cheng**, Haifeng Xu
-
-Under Review
-
 **[[W1]. Can LLMs Address Mental Health Questions? A Comparison with Human Therapists](https://arxiv.org/abs/2509.12102)**
 
 Qia Wang, **Yuwei Cheng**, Austin Song, Sarah Keedy, Marc Berman, Nick Feamster
 
 Under Review
+
+**[[P6]. Escaping Model Collapse via Synthetic Data Verification: Near-term Improvements and Long-term Convergence](https://arxiv.org/abs/2510.16657)**
+
+Bingji Yi, Qiyuan Liu, **Yuwei Cheng**, Haifeng Xu
+
+ICLR 2026: Proc. 14th International Conference on Learning Representations, 2026.
 
 **[[P5]. Learning Personalized Ad Impact via Contextual Reinforcement Learning under Delayed Rewards](https://arxiv.org/abs/2510.20055)**
 
