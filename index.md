@@ -19,6 +19,12 @@ Qia Wang, **Yuwei Cheng**, Austin Song, Sarah Keedy, Marc Berman, Nick Feamster
 
 Under Review
 
+**[P7]. Probabilistic Bisection Algorithm Provably Achieves Exponential Convergence**
+
+Ganghua Wang, **Yuwei Cheng**, Haifeng Xu
+
+**ICML 2026**: Forty-Third International Conference on Machine Learning
+
 **[[P6]. Escaping Model Collapse via Synthetic Data Verification: Near-term Improvements and Long-term Convergence](https://arxiv.org/abs/2510.16657)**
 
 Bingji Yi, Qiyuan Liu, **Yuwei Cheng**, Haifeng Xu
