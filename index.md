@@ -21,6 +21,8 @@ Under Review
 
 **[P7]. Probabilistic Bisection Algorithm Provably Achieves Exponential Convergence**
 
+**ICML26 Silver Reviewer for Position Track**
+
 Ganghua Wang, **Yuwei Cheng**, Haifeng Xu
 
 **ICML 2026**: Forty-Third International Conference on Machine Learning
