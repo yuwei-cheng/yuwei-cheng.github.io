@@ -15,7 +15,7 @@ AI for Social Good, Preference Alignment, Online Learning, Reinforcement Learnin
 
 **[[W2]. Fine-Tuning Improves Information Conveyance in Language Models](https://arxiv.org/abs/2605.30844)**
 
-**Yuwei Cheng [*](#first-author)**, Weiyi Tian [*](#first-author), and Haifenf Xu
+**Yuwei Cheng [*](#first-author)**, Weiyi Tian [*](#first-author), and Haifeng Xu
 
 Under Review
 
