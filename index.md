@@ -13,6 +13,12 @@ AI for Social Good, Preference Alignment, Online Learning, Reinforcement Learnin
 
 <a name="first-author"></a>*Co-first author
 
+**[[W2]. Fine-Tuning Improves Information Conveyance in Language Models](https://arxiv.org/abs/2605.30844)**
+
+**Yuwei Cheng**[*](#first-author), Weiyi Tian [*](#first-author), Haifeng Xu.
+
+Under Review
+
 **[[W1]. Can LLMs Address Mental Health Questions? A Comparison with Human Therapists](https://arxiv.org/abs/2509.12102)**
 
 Qia Wang, **Yuwei Cheng**, Austin Song, Sarah Keedy, Marc Berman, Nick Feamster
