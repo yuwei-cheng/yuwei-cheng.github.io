@@ -15,7 +15,7 @@ AI for Social Good, Preference Alignment, Online Learning, Reinforcement Learnin
 
 **[[W2]. Fine-Tuning Improves Information Conveyance in Language Models](https://arxiv.org/abs/2605.30844)**
 
-**Yuwei Cheng [*](#first-author)**, Weiyi Tian [*](#first-author), and Haifeng Xu
+**Yuwei Cheng** [*](#first-author), Weiyi Tian [*](#first-author), and Haifeng Xu
 
 Under Review
 
@@ -51,7 +51,7 @@ Bingji Yi, Qiyuan Liu, **Yuwei Cheng**, Haifeng Xu
 
 **[[P4]. Single-Agent Poisoning Attacks Suffice to Ruin Multi-Agent Learning](https://openreview.net/forum?id=46xYl55hdc)**
 
-Fan Yao [*](#first-author), **Yuwei Cheng [*](#first-author)**, Ermin Wei and Haifenf Xu
+Fan Yao [*](#first-author), **Yuwei Cheng [*](#first-author)**, Ermin Wei and Haifeng Xu
 
 **ICLR 2025**: Proc. 13th International Conference on Learning Representations, 2025.
 
