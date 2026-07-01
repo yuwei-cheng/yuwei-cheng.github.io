@@ -25,7 +25,7 @@ Qia Wang, **Yuwei Cheng**, Austin Song, Sarah Keedy, Marc Berman, Nick Feamster
 
 Under Review
 
-**[P7]. Probabilistic Bisection Algorithm Provably Achieves Exponential Convergence**
+**[[P7]. Probabilistic Bisection Algorithm Provably Achieves Exponential Convergence](https://icml.cc/virtual/2026/poster/63131)**
 
 **ICML26 Silver Reviewer for Position Track**
 
