@@ -17,13 +17,13 @@ AI for Social Good, Preference Alignment, Online Learning, Reinforcement Learnin
 
 **Yuwei Cheng** [*](#first-author), Weiyi Tian [*](#first-author), and Haifeng Xu
 
+Selected as Spotlight Talk at Midwest Machine Learning Symposium 2026
+
 Under Review
 
 **[[W1]. Can LLMs Address Mental Health Questions? A Comparison with Human Therapists](https://arxiv.org/abs/2509.12102)**
 
 Qia Wang, **Yuwei Cheng**, Austin Song, Sarah Keedy, Marc Berman, Nick Feamster
-
-Selected as Spotlight Talk at Midwest Machine Learning Symposium 2026
 
 Under Review
 
