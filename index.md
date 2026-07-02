@@ -23,6 +23,8 @@ Under Review
 
 Qia Wang, **Yuwei Cheng**, Austin Song, Sarah Keedy, Marc Berman, Nick Feamster
 
+Selected as Spotlight Talk at Midwest Machine Learning Symposium 2026
+
 Under Review
 
 **[[P7]. Probabilistic Bisection Algorithm Provably Achieves Exponential Convergence](https://icml.cc/virtual/2026/poster/63131)**
